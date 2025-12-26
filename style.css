@@ -33,7 +33,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background-color: #c8b6ff;
+    background-color: #3a3a55;
 }
 
 .logo img {
@@ -51,12 +51,12 @@ nav ul {
 nav a {
     font-weight: 900;
     font-size: 24px;
-    color: #6E8B71;
+    color: #c8b6ff;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #3d5a4c;
+    color: #9a77ff;
 }
 
 /* Hero Section */
@@ -64,8 +64,8 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0px 60px;
-    background-color: #f5f3ed;
+    padding: 25px 60px;
+    background-color: #fff8f0;
     position: relative;
 }
 
@@ -81,21 +81,21 @@ nav a:hover {
     transform: translateY(-50%);
     font-size: 30px;
     font-weight: 900;
-    color: #384538;
+    color: #3a3a55;
     line-height: 1;
 }
 
 /* About Section */
 .about {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #fff8f0;
 }
 
 .about h2 {
     text-align: center;
     font-size: 36px;
     margin-bottom: 30px;
-    color: #384538;
+    color: #3a3a55;
     font-weight: 700;
 }
 
@@ -147,20 +147,20 @@ nav a:hover {
     content: "•";
     position: absolute;
     left: 0;
-    color: #3d5a4c;
+    color: #3a3a55;
 }
 
 /* Project Section */
 .project {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #fff8f0;
 }
 
 .project h2 {
     text-align: center;
     font-size: 36px;
     margin-bottom: 60px;
-    color: #384538;
+    color: #3a3a55;
     font-weight: 700;
 }
 
@@ -201,14 +201,14 @@ nav a:hover {
 /* Contact Section */
 .contact {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #fff8f0;
 }
 
 .contact h2 {
     text-align: center;
     font-size: 36px;
     margin-bottom: 30px;
-    color: #384538;
+    color: #3a3a55;
     font-weight: 700;
     
 }
@@ -248,11 +248,11 @@ nav a:hover {
     content: "•";
     position: absolute;
     left: 0;
-    color: #3d5a4c;
+    color: #3a3a55;
 }
 
 .contact-item a {
-    color: #3d5a4c;
+    color: #8e9aaf;
     transition: opacity 0.3s;
 }
 
@@ -262,7 +262,7 @@ nav a:hover {
 
 /* Footer */
 footer {
-    background-color: #3d5a4c;
+    background-color: #3a3a55;
     color: rgba(255, 255, 255, 0.6);
     text-align: left;
     padding: 30px 60px;
